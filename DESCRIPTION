@@ -9,4 +9,5 @@ Description: A package for downloading log file from cran log site
 License: MIT
 LazyData: TRUE
 RoxygenNote: 5.0.1
-Imports: installr
+Depends:
+    installr
